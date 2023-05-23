@@ -12,4 +12,4 @@ Watch tutorial on YouTube
 
 2. Test the connection.
 
-3. Don't ask Henri.
+3. Ask Henri
